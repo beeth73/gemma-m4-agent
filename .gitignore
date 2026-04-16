@@ -1,0 +1,19 @@
+# Models (Crucial: 8GB is too big for Git)
+mlx_model/
+
+# Node/Frontend
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+conda_env/
+
+# Mac
+.DS_Store
+
+# Pendrive Mounts
+/Volumes/

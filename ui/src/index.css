@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-studio-black: #000000;
+  --color-studio-card: #0a0a0a;
+  --color-studio-border: #222222;
+}
+
+:root {
+  background-color: #000000;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}

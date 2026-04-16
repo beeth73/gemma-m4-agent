@@ -1,0 +1,8 @@
+# Internal SSD (High Speed)
+model_path: "./mlx_model"
+
+# External Pendrive (High Capacity)
+storage_root: "/Volumes/Macintosh PD/gemma_data"
+vector_db_path: "/Volumes/Macintosh PD/gemma_data/vector_db"
+chat_history_path: "/Volumes/Macintosh PD/gemma_data/logs/session.json"
+workspace_path: "/Volumes/Macintosh PD/gemma_data/workspace"

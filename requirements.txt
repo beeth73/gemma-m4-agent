@@ -1,0 +1,10 @@
+mlx
+mlx-lm
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+duckduckgo-search
+pyyaml
+ipywidgets
+tqdmfastapi
+uvicorn
