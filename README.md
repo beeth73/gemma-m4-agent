@@ -74,7 +74,7 @@ npm run dev
 ---
 
 ## 💻 Hardware Baseline
-*   **Processor:** Apple M4 (8-core CPU, 10-core GPU)
+*   **Processor:** Apple M4 (10-core CPU, 8-core GPU)
 *   **Memory:** 16GB Unified RAM
 *   **Inference Latency:** Optimized for real-time token streaming
 *   **Storage:** 256GB NVMe (SSD) + 64GB USB 3.2 (Macintosh PD)
